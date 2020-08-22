@@ -1,4 +1,4 @@
-package setup.javaPlus;
+//package setup.javaPlus;
 
 import java.awt.Color;
 
