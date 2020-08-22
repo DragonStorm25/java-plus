@@ -1,4 +1,4 @@
-package setup.javaPlus;
+//package setup.javaPlus;
 
 import java.awt.Point;
 import java.awt.geom.Point2D;
